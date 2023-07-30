@@ -7,9 +7,9 @@ making accurate price prediction a crucial area of research. This paper aims to 
 and evaluate predictive models for Bitcoin and Ethereum price forecasting. By analyzing 
 existing research papers, we assess the effectiveness of various methodologies, 
 including machine learning algorithms, time series analysis, and deep learning methods. 
-Drawing upon studies in the field, we contribute to the existing body of knowledge by 
+Drawing upon studies in the field, I contribute to the existing body of knowledge by 
 identifying the strengths and weaknesses of different predictive models. Through a 
-comprehensive comparative analysis, we provide insights into the accuracy and 
+comprehensive comparative analysis, I provide insights into the accuracy and 
 reliability of these models, aiding investors, traders, and researchers in making informed 
 decisions in the dynamic cryptocurrency markets.
 
