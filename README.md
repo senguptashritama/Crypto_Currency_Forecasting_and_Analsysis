@@ -1,4 +1,4 @@
-# Crypto_Currency_Forecasting_and_Analsysis
+# Crypto_Currency_Forecasting_and_Analysis
 
 Cryptocurrencies, such as Bitcoin and Ethereum, have revolutionized the 
 financial landscape with their decentralized nature and potential for disruptive innovation. 
